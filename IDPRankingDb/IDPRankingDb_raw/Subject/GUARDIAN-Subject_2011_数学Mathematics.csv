@@ -1,0 +1,63 @@
+﻿Ranking,University Name,Guardian score,Satisfied with course,Satisfied with teaching,Satisfied with feedback,Student:staff ratio,Spend per student,Average entry tariff,Value-added score,Career after 6 mths,Free
+1,牛津大学University of Oxford,100.0,92.0,85.0,80.0,12.5,10,568,7.0,81.0,免费评估
+2,剑桥大学University of Cambridge,86.4,95.0,86.0,80.0,14.1,10,576,5.0,72.0,免费评估
+3,兰卡斯特大学Lancaster University,86.2,91.0,91.0,76.0,9.3,10,442,7.0,78.0,免费评估
+4,华威大学The University of Warwick,76.4,89.0,83.0,65.0,12.0,9,540,5.0,83.0,免费评估
+5,帝国理工学院Imperial College London,69.4,84.0,75.0,55.0,13.5,10,528,4.0,78.0,免费评估
+6,格林威治大学The University of Greenwich,68.9,94.0,87.0,81.0,20.4,5,246,10.0,,免费评估
+7,圣安德鲁斯大学University of St Andrews,67.9,90.0,89.0,64.0,13.7,5,489,6.0,76.0,免费评估
+8,萨里大学University of Surrey,65.7,89.0,86.0,76.0,11.9,4,440,4.0,,免费评估
+9,杜伦大学Durham University,65.6,90.0,83.0,64.0,13.9,3,533,6.0,81.0,免费评估
+10,伯明翰大学University of Birmingham,64.4,85.0,84.0,75.0,13.0,8,422,6.0,63.0,免费评估
+11,谢菲尔德哈莱姆大学Sheffield Hallam University,64.1,95.0,95.0,80.0,20.4,6,259,7.0,83.0,免费评估
+12,东英吉利大学University of East Anglia,63.8,97.0,93.0,83.0,15.3,4,403,5.0,67.0,免费评估
+13,普利茅斯大学University of Plymouth,63.2,100.0,94.0,88.0,15.7,3,305,6.0,,免费评估
+14,亚伯大学Aberystwyth University,62.8,92.0,80.0,78.0,8.7,7,331,3.0,,免费评估
+15,伦敦大学皇家霍洛威学院Royal Holloway University of London,61.5,93.0,87.0,72.0,12.8,7,378,6.0,67.0,免费评估
+16,巴斯大学University of Bath,60.8,84.0,79.0,67.0,14.7,4,498,4.0,80.0,免费评估
+17,南安普顿大学University of Southampton,59.9,91.0,85.0,65.0,12.4,6,459,5.0,63.0,免费评估
+18,基尔大学Keele University,58.5,82.0,84.0,73.0,11.1,5,297,5.0,,免费评估
+19,格拉斯哥大学University of Glasgow,58.2,94.0,89.0,73.0,13.3,7,400,2.0,63.0,免费评估
+20,诺丁汉大学University of Nottingham,57.5,89.0,79.0,72.0,15.4,5,458,5.0,72.0,免费评估
+20,萨塞克斯大学University of Sussex,57.5,88.0,79.0,64.0,16.7,4,374,4.0,86.0,免费评估
+22,谢菲尔德大学The University of Sheffield,56.4,83.0,82.0,73.0,17.5,4,407,6.0,73.0,免费评估
+23,诺桑比亚大学Northumbria University,56.2,100.0,95.0,82.0,14.7,5,314,1.0,,免费评估
+24,伦敦大学学院University College London,55.6,85.0,82.0,59.0,18.6,7,489,6.0,67.0,免费评估
+25,约克大学The University of York,55.0,85.0,82.0,66.0,15.4,5,450,4.0,66.0,免费评估
+26,埃塞克斯大学University of Essex,54.8,94.0,85.0,75.0,11.5,5,323,2.0,,免费评估
+27,布里斯托大学University of Bristol,54.7,77.0,74.0,52.0,13.3,6,516,4.0,74.0,免费评估
+28,爱丁堡大学The University of Edinburgh,54.3,87.0,76.0,59.0,18.9,9,455,4.0,73.0,免费评估
+29,邓迪大学University of Dundee,54.0,88.0,92.0,78.0,20.0,3,373,,,免费评估
+30,雷丁大学University of Reading,52.3,98.0,91.0,61.0,16.5,4,352,7.0,64.0,免费评估
+31,莱斯特大学University of Leicester,51.7,94.0,79.0,68.0,16.5,5,387,7.0,54.0,免费评估
+32,利兹大学University of Leeds,51.2,74.0,75.0,55.0,10.8,7,431,4.0,64.0,免费评估
+33,西英格兰大学University of the West of England,51.0,85.0,85.0,79.0,20.4,4,293,9.0,,免费评估
+34,伦敦国王学院King's College London,50.8,85.0,75.0,57.0,14.4,6,445,4.0,61.0,免费评估
+35,利物浦大学The University of Liverpool,50.6,76.0,74.0,65.0,14.7,6,413,7.0,67.0,免费评估
+36,卡迪夫大学Cardiff University,50.4,89.0,79.0,67.0,16.9,4,418,6.0,64.0,免费评估
+37,埃克塞特大学University of Exeter,50.3,96.0,91.0,67.0,21.8,5,430,6.0,62.0,免费评估
+38,金斯顿大学Kingston University,50.2,92.0,82.0,69.0,19.3,4,233,10.0,,免费评估
+39,拉夫堡大学Loughborough University,50.1,89.0,84.0,65.0,17.9,4,398,4.0,74.0,免费评估
+40,赫特福德大学University of Hertfordshire,50.0,70.0,77.0,70.0,9.7,3,235,10.0,58.0,免费评估
+41,伦敦政治经济学院The London School of Economics and Political Science,49.9,73.0,67.0,62.0,18.7,6,519,3.0,81.0,免费评估
+42,布莱顿大学University of Brighton,49.7,,,,19.0,3,275,7.0,,免费评估
+43,朴茨茅斯大学University of Portsmouth,49.5,98.0,93.0,72.0,14.8,6,279,5.0,45.0,免费评估
+44,考文垂大学Coventry University,48.5,,,,16.4,4,273,8.0,,免费评估
+45,牛津布鲁克斯大学Oxford Brookes University,48.4,77.0,87.0,72.0,16.4,6,334,,,免费评估
+46,赫瑞瓦特大学Heriot Watt University,46.9,80.0,74.0,49.0,17.7,5,384,5.0,81.0,免费评估
+47,切斯特大学University of Chester,46.7,93.0,83.0,71.0,14.7,3,262,7.0,64.0,免费评估
+47,思克莱德大学University of Strathclyde,46.7,85.0,85.0,69.0,16.1,4,393,1.0,75.0,免费评估
+49,曼彻斯特城市大学Manchester Metropolitan University,45.8,92.0,82.0,77.0,17.2,3,259,9.0,,免费评估
+50,斯旺西大学Swansea University,45.1,89.0,74.0,61.0,16.4,3,300,7.0,,免费评估
+51,肯特大学University of Kent,44.5,81.0,73.0,58.0,13.2,4,300,3.0,,免费评估
+52,纽卡斯尔大学Newcastle University,42.5,90.0,85.0,62.0,17.8,4,412,2.0,67.0,免费评估
+53,曼彻斯特大学The University of Manchester,41.7,79.0,75.0,44.0,18.6,7,450,4.0,67.0,免费评估
+54,格拉摩根大学University of Glamorgan,41.3,,,,18.0,4,260,3.0,,免费评估
+55,英国女王大学Queen's University Belfast,40.0,91.0,81.0,67.0,22.3,3,363,5.0,70.0,免费评估
+55,伦敦大学玛丽女王学院Queen Mary University of London,40.0,82.0,70.0,62.0,17.7,6,326,4.0,65.0,免费评估
+57,布鲁内尔大学Brunel University,38.6,84.0,78.0,65.0,19.3,4,280,8.0,59.0,免费评估
+57,伦敦都市大学London Metropolitan University,38.6,92.0,92.0,78.0,25.2,2,196,,,免费评估
+59,阿斯顿大学Aston University,37.7,91.0,87.0,64.0,23.3,4,330,7.0,,免费评估
+60,诺丁汉特伦特大学Nottingham Trent University,37.4,83.0,72.0,66.0,18.7,4,262,6.0,,免费评估
+61,哥比亚大学University of Cumbria,31.6,,,,23.5,8,324,2.0,,免费评估
+62,伦敦城市大学City University London,27.1,89.0,68.0,61.0,24.2,3,313,8.0,54.0,免费评估

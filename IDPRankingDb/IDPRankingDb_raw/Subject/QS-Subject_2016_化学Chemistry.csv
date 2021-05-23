@@ -1,0 +1,51 @@
+﻿Ranking,University Name,Region,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,Overall score,Free
+1,麻省理工学院Massachusetts Institute of Technology,United States,100.0,95.2,95.1,97.0,97.5,免费评估
+2,"University of California, Berkeley (UCB)",United States,97.4,86.2,100.0,100.0,96.2,免费评估
+3,剑桥大学University of Cambridge,United Kingdom,98.7,100.0,91.3,90.5,95.8,免费评估
+4,哈佛大学Harvard University,United States,98.3,96.6,93.3,86.3,94.6,免费评估
+5,斯坦福大学Stanford University,United States,94.3,90.5,97.0,96.0,94.4,免费评估
+6,牛津大学University of Oxford,United Kingdom,97.4,98.4,88.4,88.9,94.1,免费评估
+7,National University of Singapore (NUS),Singapore,88.9,92.7,92.2,95.2,91.6,免费评估
+8,The University of Tokyo,Japan,92.5,94.9,86.2,90.1,91.2,免费评估
+9,加利福尼亚理工学院California Institute of Technology,United States,95.1,77.3,97.2,86.6,90.3,免费评估
+10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,93.4,89.0,87.4,85.0,89.6,免费评估
+10,帝国理工学院Imperial College London,United Kingdom,89.7,88.0,92.2,88.6,89.6,免费评估
+12,"University of California, Los Angeles (UCLA)",United States,89.0,80.5,99.6,89.3,89.5,免费评估
+13,西北大学Northwestern University,United States,90.9,69.9,98.3,95.4,89.1,免费评估
+14,Kyoto University,Japan,88.8,92.0,82.9,87.4,88.0,免费评估
+15,"Nanyang Technological University, Singapore (NTU)",Singapore,82.7,85.3,92.9,94.8,87.7,免费评估
+16,Peking University,China,85.7,87.6,87.4,91.2,87.5,免费评估
+17,Tsinghua University,China,83.2,89.0,86.9,93.8,87.2,免费评估
+18,Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland,85.0,77.9,94.1,89.1,86.2,免费评估
+19,耶鲁大学Yale University,United States,84.7,84.6,94.3,81.4,85.9,免费评估
+20,KAIST - Korea Advanced Institute of Science & Technology,South Korea,82.7,79.9,91.3,87.6,84.8,免费评估
+21,Seoul National University,South Korea,84.5,83.4,85.0,85.8,84.6,免费评估
+21,Tokyo Institute of Technology,Japan,88.8,87.1,79.6,78.9,84.6,免费评估
+23,The University of Hong Kong,Hong Kong,84.5,88.1,88.1,77.1,84.5,免费评估
+24,多伦多大学University of Toronto,Canada,84.0,77.3,90.5,86.3,84.4,免费评估
+25,Osaka University,Japan,81.0,85.3,84.3,88.6,84.0,免费评估
+26,普林斯顿大学Princeton University,United States,82.2,81.4,92.0,81.1,83.8,免费评估
+27,Technische Universität München,Germany,85.9,78.5,85.3,82.7,83.7,免费评估
+28,The Hong Kong University of Science and Technology,Hong Kong,80.8,83.4,90.8,80.5,83.3,免费评估
+29,National Taiwan University (NTU),Taiwan,79.6,87.0,84.5,85.0,83.1,免费评估
+29,University of Texas at Austin,United States,80.2,67.0,95.9,92.1,83.1,免费评估
+31,伊利诺伊大学香槟分校University of Illinois at Urbana-Champaign,United States,81.7,65.2,92.4,89.6,82.1,免费评估
+32,佐治亚理工学院Georgia Institute of Technology,United States,77.8,73.6,91.8,88.9,82.0,免费评估
+33,蒙纳什大学Monash University,Australia,80.7,79.9,86.1,82.1,81.9,免费评估
+34,曼彻斯特大学The University of Manchester,United Kingdom,81.0,79.9,84.9,81.1,81.6,免费评估
+34,Tohoku University,Japan,80.9,83.5,80.2,82.7,81.6,免费评估
+36,Fudan University,China,74.3,74.6,89.9,94.4,81.5,免费评估
+36,"密歇根大学安娜堡分校University of Michigan,Ann Arbor",United States,76.6,75.7,92.2,86.6,81.5,免费评估
+38,康奈尔大学Cornell University,United States,79.5,78.8,89.0,80.2,81.4,免费评估
+39,麦吉尔大学McGill University,Canada,78.4,81.3,87.5,80.5,81.2,免费评估
+39,墨尔本大学The University of Melbourne,Australia,80.6,84.3,84.5,76.0,81.2,免费评估
+41,"University of North Carolina, Chapel Hill",United States,79.5,63.3,95.1,86.1,80.7,免费评估
+42,RWTH Aachen University,Germany,76.2,77.8,87.1,85.2,80.5,免费评估
+42,伦敦大学学院University College London,United Kingdom,80.8,78.6,83.4,78.9,80.5,免费评估
+44,哥伦比亚大学Columbia University,United States,79.6,75.9,88.7,77.8,80.3,免费评估
+45,Shanghai Jiao Tong University,China,77.9,83.3,80.5,79.9,79.9,免费评估
+46,"University of California, San Diego (UCSD)",United States,80.4,65.3,89.5,82.7,79.7,免费评估
+46,芝加哥大学The University of Chicago,United States,78.7,70.3,93.3,77.5,79.7,免费评估
+46,宾夕法尼亚大学University of Pennsylvania,United States,76.4,73.9,90.1,81.8,79.7,免费评估
+49,悉尼大学The University of Sydney,Australia,76.6,83.1,85.3,76.4,79.6,免费评估
+49,威斯康星大学-麦迪逊分校University of Wisconsin-Madison,United States,77.4,66.8,89.6,86.6,79.6,免费评估

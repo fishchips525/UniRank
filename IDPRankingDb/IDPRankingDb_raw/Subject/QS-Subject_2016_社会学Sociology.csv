@@ -1,0 +1,51 @@
+﻿Ranking,University Name,Region,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,Overall score,Free
+1,哈佛大学Harvard University,United States,100.0,98.6,97.7,100.0,99.7,免费评估
+2,"University of California, Berkeley (UCB)",United States,98.6,87.3,95.2,92.5,96.4,免费评估
+3,牛津大学University of Oxford,United Kingdom,95.5,100.0,92.9,93.8,95.6,免费评估
+4,伦敦政治经济学院The London School of Economics and Political Science,United Kingdom,96.7,91.6,90.7,85.9,94.3,免费评估
+5,威斯康星大学-麦迪逊分校University of Wisconsin-Madison,United States,96.7,77.4,93.2,88.6,93.4,免费评估
+6,斯坦福大学Stanford University,United States,91.9,90.4,96.8,94.3,92.4,免费评估
+7,芝加哥大学The University of Chicago,United States,94.8,80.4,93.8,87.0,92.1,免费评估
+8,剑桥大学University of Cambridge,United Kingdom,94.0,99.1,84.5,78.6,91.7,免费评估
+9,"University of California, Los Angeles (UCLA)",United States,91.4,86.2,93.1,89.1,90.6,免费评估
+10,普林斯顿大学Princeton University,United States,90.1,84.2,97.1,92.1,90.2,免费评估
+11,哥伦比亚大学Columbia University,United States,89.4,84.9,92.8,93.0,89.7,免费评估
+12,耶鲁大学Yale University,United States,87.4,82.9,98.2,95.9,88.8,免费评估
+13,"密歇根大学安娜堡分校University of Michigan,Ann Arbor",United States,86.6,75.6,93.6,93.4,86.9,免费评估
+14,University of Amsterdam,Netherlands,86.8,80.8,90.8,85.9,86.3,免费评估
+15,National University of Singapore (NUS),Singapore,88.8,82.6,83.6,74.6,85.8,免费评估
+16,澳大利亚国立大学The Australian National University,Australia,87.2,84.9,84.7,78.6,85.6,免费评估
+17,爱丁堡大学The University of Edinburgh,United Kingdom,86.3,73.3,85.0,74.6,83.2,免费评估
+18,曼彻斯特大学The University of Manchester,United Kingdom,83.1,72.5,92.8,85.9,82.9,免费评估
+19,多伦多大学University of Toronto,Canada,83.4,76.1,86.6,80.8,82.4,免费评估
+20,New York University (NYU),United States,79.9,82.6,91.2,88.1,82.0,免费评估
+20,"University of North Carolina, Chapel Hill",United States,82.6,61.0,93.4,89.1,82.0,免费评估
+22,Freie Universitaet Berlin,Germany,83.7,67.9,86.2,69.8,80.2,免费评估
+23,The University of Tokyo,Japan,85.4,87.2,69.2,52.9,79.9,免费评估
+24,麻省理工学院Massachusetts Institute of Technology,United States,75.1,90.5,100.0,85.9,79.5,免费评估
+25,Humboldt-Universität zu Berlin,Germany,84.2,72.7,77.6,58.2,78.8,免费评估
+26,康奈尔大学Cornell University,United States,77.0,74.0,93.2,84.7,78.7,免费评估
+27,埃塞克斯大学University of Essex,United Kingdom,77.4,62.0,97.5,87.0,78.3,免费评估
+28,The University of Hong Kong,Hong Kong,79.5,88.8,80.9,62.6,78.0,免费评估
+29,墨尔本大学The University of Melbourne,Australia,77.7,79.4,83.2,72.7,77.4,免费评估
+30,悉尼大学The University of Sydney,Australia,77.5,77.2,83.4,73.7,77.2,免费评估
+31,Peking University,China,79.5,87.2,78.8,58.2,77.0,免费评估
+32,昆士兰大学The University of Queensland,Australia,78.1,66.7,84.7,74.6,76.8,免费评估
+33,华威大学The University of Warwick,United Kingdom,76.9,74.8,83.4,74.6,76.7,免费评估
+34,蒙纳什大学Monash University,Australia,76.8,78.0,80.5,70.8,76.2,免费评估
+35,伦敦大学金史密斯学院Goldsmiths University of London,United Kingdom,80.3,61.7,77.6,62.6,75.7,免费评估
+36,英属哥伦比亚大学University of British Columbia,Canada,72.9,79.3,89.9,80.8,75.6,免费评估
+37,杜克大学Duke University,United States,72.1,78.3,92.6,82.2,75.3,免费评估
+38,兰卡斯特大学Lancaster University,United Kingdom,74.7,63.6,92.8,79.4,75.2,免费评估
+39,The Chinese University of Hong Kong (CUHK),Hong Kong,75.9,79.0,83.6,64.0,74.8,免费评估
+40,Seoul National University,South Korea,77.1,88.2,73.6,52.9,74.4,免费评估
+41,西北大学Northwestern University,United States,70.4,64.0,98.6,90.6,74.2,免费评估
+41,Utrecht University,Netherlands,72.8,65.6,89.4,81.5,74.2,免费评估
+43,麦吉尔大学McGill University,Canada,73.0,74.2,85.7,73.7,73.9,免费评估
+43,宾夕法尼亚大学University of Pennsylvania,United States,70.1,79.8,90.4,82.2,73.9,免费评估
+45,City University of New York,United States,72.4,66.3,86.0,80.1,73.6,免费评估
+45,University of Texas at Austin,United States,68.3,79.5,93.1,87.6,73.6,免费评估
+47,Université Paris-Sorbonne (Paris IV),France,79.5,71.7,65.2,48.7,73.4,免费评估
+47,University of Copenhagen,Denmark,71.9,85.5,85.2,68.7,73.4,免费评估
+49,Stockholm University,Sweden,75.4,43.9,87.7,74.6,72.7,免费评估
+50,Sciences Po,France,75.1,64.9,80.8,62.6,72.5,免费评估

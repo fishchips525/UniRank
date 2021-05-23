@@ -1,0 +1,55 @@
+﻿Ranking,University Name,Region,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,Overall score,Free
+1,Massachusetts Institute of Technology (MIT),United States,100.0,98.5,95.9,100.0,98.9,免费评估
+2,Stanford University,United States,97.4,100.0,98.1,96.1,97.5,免费评估
+3,Harvard University,United States,99.9,94.9,96.6,97.9,97.4,免费评估
+4,剑桥大学University of Cambridge,United Kingdom,97.9,94.2,92.7,98.0,96.2,免费评估
+5,牛津大学University of Oxford,United Kingdom,96.9,93.1,95.5,96.0,95.5,免费评估
+6,"University of California, Berkeley (UCB)",United States,91.8,93.5,96.7,96.6,95.0,免费评估
+7,California Institute of Technology (Caltech),United States,92.8,94.2,91.3,95.1,93.7,免费评估
+8,Princeton University,United States,86.4,91.7,94.8,94.0,92.2,免费评估
+9,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,92.5,89.7,92.5,92.1,91.8,免费评估
+10,The University of Tokyo,Japan,87.2,90.6,86.9,93.4,90.3,免费评估
+11,帝国理工学院Imperial College London,United Kingdom,91.0,90.0,91.4,89.1,90.1,免费评估
+12,University of Chicago,United States,76.7,97.0,93.8,87.4,88.5,免费评估
+13,Yale University,United States,87.2,89.0,98.0,83.8,88.4,免费评估
+14,Columbia University,United States,84.4,90.7,97.3,83.2,87.8,免费评估
+15,EPFL,Switzerland,83.8,89.6,95.2,83.3,87.0,免费评估
+15,Tsinghua University,China (Mainland),86.9,90.7,85.6,86.0,87.0,免费评估
+17,Technical University of Munich,Germany,85.6,82.7,89.0,87.4,86.4,免费评估
+18,Peking University,China (Mainland),85.8,87.2,87.2,85.6,86.3,免费评估
+19,"University of California, Los Angeles (UCLA)",United States,88.1,87.0,91.9,82.0,86.2,免费评估
+19,University of Illinois at Urbana-Champaign,United States,80.7,88.5,91.8,85.1,86.2,免费评估
+21,University of Toronto,Canada,83.2,88.8,91.2,83.3,86.0,免费评估
+22,Cornell University,United States,81.2,86.7,93.5,84.0,85.9,免费评估
+22,Ludwig-Maximilians-Universität München,Germany,69.1,86.7,93.1,90.4,85.9,免费评估
+24,National University of Singapore (NUS),Singapore,81.2,82.8,92.9,85.2,85.5,免费评估
+25,Kyoto University,Japan,82.0,84.7,83.6,86.4,84.6,免费评估
+25,"University of California, Santa Barbara (UCSB)",United States,58.4,91.0,99.0,87.3,84.6,免费评估
+27,University of Michigan-Ann Arbor,United States,81.9,89.7,90.2,79.1,84.0,免费评估
+28,Ruprecht-Karls-Universität Heidelberg,Germany,72.0,87.0,92.3,83.1,83.5,免费评估
+28,伦敦大学学院University College London,United Kingdom,81.8,86.2,88.3,80.6,83.5,免费评估
+30,"University of Maryland, College Park",United States,72.7,92.8,94.2,78.3,83.3,免费评估
+31,"Nanyang Technological University, Singapore (NTU)",Singapore,82.2,82.1,89.8,80.9,83.2,免费评估
+31,University of Texas at Austin,United States,78.9,88.8,92.5,77.8,83.2,免费评估
+33,Lomonosov Moscow State University,Russia,92.9,87.5,74.8,80.2,83.1,免费评估
+34,Tokyo Institute of Technology (Tokyo Tech),Japan,84.6,81.0,79.7,84.6,82.9,免费评估
+35,Sapienza University of Rome,Italy,76.0,90.6,85.8,80.6,82.7,免费评估
+36,Seoul National University,South Korea,78.0,82.4,86.2,82.9,82.5,免费评估
+37,Ecole Polytechnique,France,84.4,83.1,90.7,76.7,82.3,免费评估
+37,曼彻斯特大学The University of Manchester,United Kingdom,80.4,87.6,88.3,77.6,82.3,免费评估
+37,Université PSL,France,77.6,85.8,88.0,80.0,82.3,免费评估
+40,爱丁堡大学The University of Edinburgh,United Kingdom,78.7,88.2,94.4,74.5,82.1,免费评估
+41,University of British Columbia,Canada,79.8,84.9,91.1,76.2,81.6,免费评估
+42,Delft University of Technology,Netherlands,85.2,77.5,85.3,79.1,81.2,免费评估
+42,"KIT, Karlsruhe Institute of Technology",Germany,77.3,86.1,87.2,77.6,81.2,免费评估
+42,Sorbonne University,France,76.9,86.3,91.3,75.7,81.2,免费评估
+45,The Australian National University,Australia,71.5,80.5,89.6,82.0,81.1,免费评估
+46,Tohoku University,Japan,78.7,81.3,81.2,82.0,81.0,免费评估
+47,The Hong Kong University of Science and Technology,Hong Kong SAR,78.9,75.4,90.9,79.7,80.9,免费评估
+48,McGill University,Canada,78.1,84.0,88.3,76.2,80.6,免费评估
+48,Shanghai Jiao Tong University,China (Mainland),82.0,83.5,81.2,78.1,80.6,免费评估
+50,Carnegie Mellon University,United States,84.1,80.8,93.5,71.2,80.2,免费评估
+50,Osaka University,Japan,76.7,81.7,78.8,81.8,80.2,免费评估
+50,RWTH Aachen University,Germany,83.5,83.9,88.1,72.7,80.2,免费评估
+50,University of Amsterdam,Netherlands,71.3,82.3,93.8,76.7,80.2,免费评估
+50,University of Pennsylvania,United States,75.8,84.6,93.8,73.3,80.2,免费评估

@@ -1,0 +1,101 @@
+﻿Ranking,University Name,Region,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,Overall score,Free
+1,Massachusetts Institute of Technology (MIT),United States,95.7,94.4,100.0,100.0,98.5,免费评估
+2,Stanford University,United States,96.0,100.0,94.0,96.3,95.9,免费评估
+3,National University of Singapore (NUS),Singapore,95.1,89.3,92.6,96.6,93.7,免费评估
+4,"University of California, Berkeley (UCB)",United States,90.8,97.1,94.2,91.1,93.2,免费评估
+5,剑桥大学University of Cambridge,United Kingdom,84.1,86.5,93.8,98.2,92.6,免费评估
+6,"Nanyang Technological University, Singapore (NTU)",Singapore,99.5,92.3,86.3,93.1,91.2,免费评估
+7,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,84.5,85.2,92.3,93.2,90.3,免费评估
+8,牛津大学University of Oxford,United Kingdom,79.6,88.4,87.6,97.5,89.5,免费评估
+9,California Institute of Technology (Caltech),United States,74.0,93.7,91.8,91.3,89.3,免费评估
+10,帝国理工学院Imperial College London,United Kingdom,78.7,79.6,92.9,91.2,88.3,免费评估
+11,Tsinghua University,China (Mainland),100.0,82.7,85.4,87.4,87.8,免费评估
+12,EPFL,Switzerland,83.3,92.7,84.3,88.6,86.7,免费评估
+13,The University of Tokyo,Japan,83.7,80.3,85.1,89.6,85.5,免费评估
+14,Delft University of Technology,Netherlands,75.5,77.9,92.1,84.6,85.2,免费评估
+15,Princeton University,United States,73.5,89.1,89.8,78.3,83.8,免费评估
+16,Kyoto University,Japan,85.6,81.1,83.1,84.9,83.7,免费评估
+17,University of Wisconsin-Madison,United States,75.0,85.7,89.6,78.2,83.4,免费评估
+18,Peking University,China (Mainland),88.8,88.6,75.8,86.1,82.8,免费评估
+19,Georgia Institute of Technology,United States,81.3,83.8,83.0,82.3,82.7,免费评估
+20,University of Minnesota Twin Cities,United States,76.9,80.0,96.4,68.0,82.5,免费评估
+21,Yale University,United States,68.0,89.8,80.4,88.2,82.3,免费评估
+22,University of Texas at Austin,United States,81.7,89.8,82.0,78.1,82.0,免费评估
+23,KAIST - Korea Advanced Institute of Science & Technology,South Korea,83.3,83.0,81.1,81.1,81.7,免费评估
+24,伦敦大学学院University College London,United Kingdom,79.2,80.7,84.4,78.6,81.3,免费评估
+24,"University of California, Los Angeles (UCLA)",United States,78.7,92.6,73.8,86.9,81.3,免费评估
+26,University of Toronto,Canada,78.3,84.8,78.5,84.4,81.2,免费评估
+27,Northwestern University,United States,86.7,93.8,78.8,75.0,81.1,免费评估
+28,曼彻斯特大学The University of Manchester,United Kingdom,75.9,84.6,84.6,76.6,80.9,免费评估
+29,Seoul National University,South Korea,80.0,77.9,79.1,84.5,80.7,免费评估
+30,Zhejiang University,China (Mainland),93.6,78.5,71.2,85.1,79.8,免费评估
+31,Monash University,Australia,86.3,83.0,74.9,78.5,78.9,免费评估
+32,The Hong Kong University of Science and Technology,Hong Kong SAR,72.4,89.1,76.4,77.7,78.1,免费评估
+33,Tokyo Institute of Technology (Tokyo Tech),Japan,75.9,75.8,73.0,86.9,78.0,免费评估
+34,Cornell University,United States,75.0,87.7,71.8,80.9,77.4,免费评估
+35,Eindhoven University of Technology,Netherlands,77.3,80.7,78.9,73.5,77.3,免费评估
+36,University of Michigan-Ann Arbor,United States,79.6,84.9,73.0,77.5,77.1,免费评估
+37,Politecnico di Milano,Italy,63.0,67.3,76.7,89.1,77.0,免费评估
+38,RWTH Aachen University,Germany,77.8,79.2,76.4,75.8,76.9,免费评估
+39,Technical University of Denmark,Denmark,79.6,79.6,81.8,66.8,76.6,免费评估
+40,Purdue University,United States,80.0,79.2,70.2,80.8,76.2,免费评估
+40,Technische Universität Berlin (TU Berlin),Germany,72.4,81.2,75.1,77.2,76.2,免费评估
+42,University of Pennsylvania,United States,70.8,86.1,73.7,77.1,76.1,免费评估
+43,KU Leuven,Belgium,77.3,80.0,69.5,81.3,75.8,免费评估
+43,Sungkyunkwan University(SKKU),South Korea,75.9,77.5,74.0,77.4,75.8,免费评估
+45,The University of Queensland,Australia,79.2,80.3,72.2,76.3,75.7,免费评估
+46,Pennsylvania State University,United States,77.8,83.9,70.5,76.8,75.5,免费评估
+47,McGill University,Canada,65.6,78.1,73.3,81.9,75.4,免费评估
+48,"KIT, Karlsruhe Institute of Technology",Germany,73.0,75.7,77.5,73.4,75.3,免费评估
+49,The University of Melbourne,Australia,64.9,77.8,76.1,77.7,75.2,免费评估
+50,The University of New South Wales (UNSW Sydney),Australia,80.0,81.4,67.1,79.8,75.0,免费评估
+51,University of British Columbia,Canada,73.0,77.2,71.0,80.0,74.9,免费评估
+52,Shanghai Jiao Tong University,China (Mainland),86.0,78.3,64.7,80.4,74.6,免费评估
+53,Columbia University,United States,74.0,90.5,68.8,74.5,74.5,免费评估
+54,Pohang University of Science And Technology (POSTECH),South Korea,76.4,84.6,69.3,75.0,74.4,免费评估
+54,Texas A&M University,United States,79.6,78.1,70.4,75.2,74.4,免费评估
+56,University of Delaware,United States,76.9,88.4,80.3,56.9,74.0,免费评估
+57,Tohoku University,Japan,75.0,74.7,65.1,83.7,73.6,免费评估
+57,University of Illinois at Urbana-Champaign,United States,75.0,83.2,65.1,79.5,73.6,免费评估
+59,Technical University of Munich,Germany,71.9,79.2,69.3,76.2,73.2,免费评估
+60,King Fahd University of Petroleum & Minerals,Saudi Arabia,79.6,86.2,65.0,73.9,73.0,免费评估
+60,Korea University,South Korea,77.3,78.1,64.8,79.3,73.0,免费评估
+60,"University of California, Santa Barbara (UCSB)",United States,68.6,88.3,77.8,61.1,73.0,免费评估
+63,Osaka University,Japan,74.5,76.3,63.9,82.5,72.9,免费评估
+63,The University of Hong Kong,Hong Kong SAR,68.6,88.0,64.2,79.2,72.9,免费评估
+65,Nanjing University,China (Mainland),91.1,87.7,61.5,70.7,72.6,免费评估
+66,National Taiwan University (NTU),Taiwan,71.4,78.0,68.7,74.6,72.3,免费评估
+67,University of Twente,Netherlands,66.2,78.7,72.4,71.2,72.1,免费评估
+68,爱丁堡大学The University of Edinburgh,United Kingdom,70.8,77.8,69.0,73.7,72.0,免费评估
+69,Universiti Malaya (UM),Malaysia,82.9,81.5,64.6,71.3,71.9,免费评估
+70,Hanyang University,South Korea,77.8,76.1,63.5,77.7,71.8,免费评估
+70,Indian Institute of Technology Bombay (IITB),India,64.3,72.8,67.8,80.4,71.8,免费评估
+72,Chalmers University of Technology,Sweden,72.4,77.8,72.4,67.2,71.7,免费评估
+73,Universidade de São Paulo,Brazil,68.0,66.9,66.5,82.4,71.6,免费评估
+74,Yonsei University,South Korea,71.4,78.0,64.5,77.6,71.5,免费评估
+75,Tianjin University,China (Mainland),91.5,77.0,75.6,52.3,71.2,免费评估
+76,Johns Hopkins University,United States,64.9,80.1,67.2,74.9,71.1,免费评估
+77,Carnegie Mellon University,United States,66.8,82.5,61.4,79.6,70.8,免费评估
+78,KTH Royal Institute of Technology,Sweden,63.0,76.0,71.0,71.4,70.7,免费评估
+78,University of Waterloo,Canada,66.8,79.3,63.7,77.8,70.7,免费评估
+80,The University of Sydney,Australia,65.6,74.9,64.5,78.7,70.5,免费评估
+80,Ghent University,Belgium,71.4,78.3,70.3,66.5,70.5,免费评估
+82,Kyushu University,Japan,74.5,74.8,61.6,77.9,70.4,免费评估
+82,Nagoya University,Japan,67.4,75.9,64.3,77.4,70.4,免费评估
+84,Hokkaido University,Japan,78.7,78.7,59.0,76.9,70.3,免费评估
+84,Universidad Nacional Autónoma de México (UNAM),Mexico,57.2,62.5,63.9,89.2,70.3,免费评估
+84,"University of California, Davis",United States,64.9,77.0,70.3,69.7,70.3,免费评估
+87,Universidade Estadual de Campinas (Unicamp),Brazil,66.8,70.0,66.7,76.6,70.2,免费评估
+88,Sorbonne University,France,60.2,79.5,66.0,75.1,69.9,免费评估
+88,Université PSL,France,61.6,78.9,59.7,83.2,69.9,免费评估
+88,Universiti Teknologi Malaysia,Malaysia,76.4,74.3,65.3,70.6,69.9,免费评估
+91,The Ohio State University,United States,70.3,80.4,62.1,74.5,69.8,免费评估
+91,Rice University,United States,68.6,90.5,65.6,65.7,69.8,免费评估
+93,伯明翰大学University of Birmingham,United Kingdom,65.6,78.1,71.3,65.2,69.6,免费评估
+94,National Tsing Hua University,Taiwan,67.4,82.2,61.9,73.5,69.3,免费评估
+95,利兹大学University of Leeds,United Kingdom,67.4,75.4,68.9,67.3,69.2,免费评估
+95,University of Massachusetts Amherst,United States,67.4,84.9,66.1,66.3,69.2,免费评估
+97,University of Alberta,Canada,71.4,73.2,68.0,67.2,69.1,免费评估
+98,Politecnico di Torino,Italy,63.6,75.8,58.4,81.0,68.6,免费评估
+99,巴斯大学University of Bath,United Kingdom,63.6,86.4,66.2,64.9,68.5,免费评估
+100,Alma Mater Studiorum - University of Bologna,Italy,64.3,73.0,64.3,73.7,68.4,免费评估
